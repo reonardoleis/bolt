@@ -34,7 +34,7 @@ You can define routes using the `set_route` function, specifying methods, paths 
 
 ```c
 set_route(router, POST, "/hello", hello_handler);
-set_route(rouuter, GET, "/user/:name", user_handler);
+set_route(router, GET, "/user/:name", user_handler);
 ```
 
 ### Handling Requests
