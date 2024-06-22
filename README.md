@@ -1,4 +1,4 @@
-### ⚡ Bolt
+# ⚡ Bolt
 
 Bolt is a minimalist HTTP server/microframework written in pure C, developed as a toy project to explore server-side programming concepts. It was designed to be used by simply including the header files on your project and adding the .c files to your compilation script.
 
