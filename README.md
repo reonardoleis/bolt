@@ -19,7 +19,7 @@ To get started with Bolt, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bolt.git
+   git clone https://github.com/reonardoleis/bolt.git
    cd bolt
    ```
    
